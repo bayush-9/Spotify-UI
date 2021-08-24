@@ -1,4 +1,6 @@
-# meals_app
+# Spotify_First screen
+(This project has been made through modifications from the "meals app" undergoing various UI changes)![Capture](https://user-images.githubusercontent.com/81760629/130558082-724af511-19b3-4a97-8690-80e701b5ea91.PNG)
+
 
 A new Flutter project.
 
